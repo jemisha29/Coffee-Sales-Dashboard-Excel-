@@ -28,21 +28,9 @@ The **Coffee Sales Dashboard** is designed to turn raw sales data into meaningfu
 
 ---
 
-## 📁 Files Included
+## 📊Dashboard
 
-| File | Description |
-|------|-------------|
-| `Coffee_Sales_Dashboard.xlsx` | Final interactive Excel dashboard |
-| `README.md` | Project overview and documentation |
-| *(Optional)* `Raw_Sales_Data.xlsx` | Sample or anonymized dataset used in the dashboard |
-
----
-
-## 🚀 How to Use
-
-1. Download and open the `Coffee_Sales_Dashboard.xlsx` file in Microsoft Excel.
-2. Use the slicers at the top to filter by roast type, size, loyalty card, and time period.
-3. View insights dynamically as charts and tables update based on your selections.
+![Image](https://github.com/user-attachments/assets/b516ea12-eb68-4aa3-859b-96a72a73204a)
 
 ---
 
@@ -55,8 +43,9 @@ The **Coffee Sales Dashboard** is designed to turn raw sales data into meaningfu
 
 ---
 
-## 📬 Contact
+## Key Insights
 
-If you have any questions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jemisha-kothari-650202301/) or check out more projects on my [GitHub](https://github.com/jemisha29).
-
----
+- Arabica and Liberica are the top-selling coffee types, showing consistent performance across months.
+- The United States leads in revenue, followed by Ireland and the United Kingdom, indicating strong market concentration.
+- Top 5 customers contribute significantly to total sales, with Allis Wilmore being the highest spender.
+- Filters by roast type, size, and loyalty card enable quick, targeted sales analysis for business decisions.
